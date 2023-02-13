@@ -5,7 +5,7 @@
   "main": "connect/index.js",
   "type": "commonjs",
   "scripts": {
-    "start": "npm i -g pm2 && pm2 main.js && pm2 save && pm2 logs",
+    "start": "node main.js",
     "dev": "nodemon main.js"
   },
   "nodemonConfig": {
