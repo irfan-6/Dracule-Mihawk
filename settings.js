@@ -1,7 +1,7 @@
 /**
-   * Made By Fandyyy 🕴️
-   * Subscribe FBOTZ YT
-   * Follow https://instagram.com/_nzrlafndi
+   * Made By IrfnBatu 🕴️
+   * Subscribe YT
+   * Follow https://instagram.com/irfan.ar26
    * Follow https://github.com/FBOTZ-YT
 */
 
@@ -9,15 +9,15 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //===> SESUAIKAN DENGAN KEBUTUHAN MU
-global.ownerNumber = ['6285609233482','6285609233482'] //Ganti Jadi Nomer mu Biar Fitur Ownernya Bisa Dipake
-global.Rowner = '6285609233482' //Owner Utama
-global.ownerName = 'Nzrl Afndi' //Ganti Jadi Namamu
-global.packname = 'Subscribe YT' //Ganti Jadi Nama Botmu
-global.author = 'NZRLAFNDI' //Ganti Jadi Namamu
+global.ownerNumber = ['62895606146824'] //Ganti Jadi Nomer mu Biar Fitur Ownernya Bisa Dipake
+global.Rowner = '62895606146824' //Owner Utama
+global.ownerName = 'IrfnBatu' //Ganti Jadi Namamu
+global.packname = 'IrBot' //Ganti Jadi Nama Botmu
+global.author = 'IrfnBatu' //Ganti Jadi Namamu
 global.prefa = ['','.','#','!'] //Ilangin Prefix Yang '' Kalau Gamau No Prefix
 global.sessionName = 'sesi' //Saran Gausah Diganti Lagi
-global.webme = 'https://linktr.ee/NzrlAfndi' //Ganti Jadi Bebas Web Sosmed Mu
-global.sosmed = 'https://www.instagram.com/_nzrlafndi' //Ganti Jadi Web Sosmed Mu
+global.webme = '-' //Ganti Jadi Bebas Web Sosmed Mu
+global.sosmed = 'https://www.instagram.com/irfan.ar26' //Ganti Jadi Web Sosmed Mu
 
 //====> SARAN GAUSAH DIGANTI SIH DAH PAS SEMUA
 global.limitAwal = {
