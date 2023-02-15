@@ -1,7 +1,7 @@
 /**
-   * Made By IrfnBatu 🕴️
+   * Made By IrBatu 🕴️
    * Subscribe YT
-   * Follow https://instagram.com/irfan.ar26
+   * Follow https://instagram.com/instagram
    * Follow https://github.com/FBOTZ-YT
 */
 
@@ -9,11 +9,11 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //===> SESUAIKAN DENGAN KEBUTUHAN MU
-global.ownerNumber = ['62895606146824'] //Ganti Jadi Nomer mu Biar Fitur Ownernya Bisa Dipake
-global.Rowner = '62895606146824' //Owner Utama
-global.ownerName = 'IrfnBatu' //Ganti Jadi Namamu
+global.ownerNumber = ['6281539243337'] //Ganti Jadi Nomer mu Biar Fitur Ownernya Bisa Dipake
+global.Rowner = '6281539243337' //Owner Utama
+global.ownerName = 'IrBatu' //Ganti Jadi Namamu
 global.packname = 'IrBot' //Ganti Jadi Nama Botmu
-global.author = 'IrfnBatu' //Ganti Jadi Namamu
+global.author = 'IrBatu' //Ganti Jadi Namamu
 global.prefa = ['','.','#','!'] //Ilangin Prefix Yang '' Kalau Gamau No Prefix
 global.sessionName = 'sesi' //Saran Gausah Diganti Lagi
 global.webme = '-' //Ganti Jadi Bebas Web Sosmed Mu
@@ -22,9 +22,9 @@ global.sosmed = 'https://www.instagram.com/irfan.ar26' //Ganti Jadi Web Sosmed M
 //====> SARAN GAUSAH DIGANTI SIH DAH PAS SEMUA
 global.limitAwal = {
  prem: 'Unlimited',
- free: 70
+ free: 100
 }
-global.multiplier = 69 // Semakin Tinggi Nilai nya Semakin Sulit Naik Level
+global.multiplier = 10 // Semakin Tinggi Nilai nya Semakin Sulit Naik Level
 global.limitEnd = 'Limit Kamu Telah Habis Silahkan Buy Di Shop Atau Tunggu Sampai Limit Reset'
 global.fiturOff = '❎ Fitur Tidak Diaktifkan'
 global.fiturError = 'Fitur Sedang Error ❎'
